@@ -1,0 +1,27 @@
+{
+  "shop_name": "Dim Sum Corner",
+  "products": [
+    {
+      "id": "shumai",
+      "name": "ขนมจีบ",
+      "price": 10,
+      "unit": "ลูก",
+      "aliases": ["shumai", "ขนมจีบหมู"]
+    },
+    {
+      "id": "bun",
+      "name": "ซาลาเปา",
+      "price": 15,
+      "unit": "ลูก",
+      "options": ["หมูแดง", "ครีม", "ถั่วดำ"],
+      "aliases": ["bun", "salapao"]
+    },
+    {
+      "id": "cookie",
+      "name": "คุกกี้ธัญพืช",
+      "price": 40,
+      "unit": "กล่อง",
+      "aliases": ["คุกกี้", "cookie"]
+    }
+  ]
+}
